@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalendarTextStyle">
+        <item name="android:textColor">#555555</item> <!-- 날짜 텍스트 색상 -->
+    </style>
+    <style name="CalendarDayStyle">
+        <item name="android:textColor">@color/dark_gray</item>    // 날짜 텍스트 색상 변경
+    </style>
+    </resources>
